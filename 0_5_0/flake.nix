@@ -11,7 +11,6 @@
   inputs.src-bigints-0_5_0.ref   = "refs/tags/0.5.0";
   inputs.src-bigints-0_5_0.owner = "nim-lang";
   inputs.src-bigints-0_5_0.repo  = "bigints";
-  inputs.src-bigints-0_5_0.dir   = "";
   inputs.src-bigints-0_5_0.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
