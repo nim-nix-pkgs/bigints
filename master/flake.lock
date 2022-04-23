@@ -42,11 +42,11 @@
     "src-bigints-master": {
       "flake": false,
       "locked": {
-        "lastModified": 1644477944,
-        "narHash": "sha256-zzCN7OPcjGtH3T59LsXX7sNtyKSPyKNLGQkICHjtcDU=",
+        "lastModified": 1648444732,
+        "narHash": "sha256-T2amiwLZvqfmzJb8aORGypVqhrui+uX0ob+b6ncXAQ4=",
         "owner": "nim-lang",
         "repo": "bigints",
-        "rev": "e0170936734a41b497214aefd5e4324a3213a35d",
+        "rev": "b96c3216cfb565b4b13570870f823aaa2dcbbffc",
         "type": "github"
       },
       "original": {
